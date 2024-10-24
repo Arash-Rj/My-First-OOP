@@ -1,0 +1,14 @@
+C:\Users\Mr. X\source\repos\HW41\HW41\bin\Debug\net8.0\HW41.exe
+C:\Users\Mr. X\source\repos\HW41\HW41\bin\Debug\net8.0\HW41.deps.json
+C:\Users\Mr. X\source\repos\HW41\HW41\bin\Debug\net8.0\HW41.runtimeconfig.json
+C:\Users\Mr. X\source\repos\HW41\HW41\bin\Debug\net8.0\HW41.dll
+C:\Users\Mr. X\source\repos\HW41\HW41\bin\Debug\net8.0\HW41.pdb
+C:\Users\Mr. X\source\repos\HW41\HW41\obj\Debug\net8.0\HW41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mr. X\source\repos\HW41\HW41\obj\Debug\net8.0\HW41.AssemblyInfoInputs.cache
+C:\Users\Mr. X\source\repos\HW41\HW41\obj\Debug\net8.0\HW41.AssemblyInfo.cs
+C:\Users\Mr. X\source\repos\HW41\HW41\obj\Debug\net8.0\HW41.csproj.CoreCompileInputs.cache
+C:\Users\Mr. X\source\repos\HW41\HW41\obj\Debug\net8.0\HW41.dll
+C:\Users\Mr. X\source\repos\HW41\HW41\obj\Debug\net8.0\refint\HW41.dll
+C:\Users\Mr. X\source\repos\HW41\HW41\obj\Debug\net8.0\HW41.pdb
+C:\Users\Mr. X\source\repos\HW41\HW41\obj\Debug\net8.0\HW41.genruntimeconfig.cache
+C:\Users\Mr. X\source\repos\HW41\HW41\obj\Debug\net8.0\ref\HW41.dll
